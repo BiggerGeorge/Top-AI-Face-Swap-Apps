@@ -67,7 +67,7 @@ It also has excellent performance in dealing with 16+ challenging scenes such as
 Deep-Fake AI is like a digital magician for swapping faces online. There's no need to sign up or worry about your pictures hanging around – it keeps no records of original or face swapped images. 
 
 **Main Features:<br>**
-●NSFW faceswap<br>
+●Entertainment faceswap<br>
 ●Make funny image<br>
 ●Gender faceswap<br>
 
